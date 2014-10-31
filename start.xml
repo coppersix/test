@@ -1,0 +1,8 @@
+<Response>  
+	<Gather action="http://www.imortuary.com/twilio/GetVendor.php" method="GET">  
+         <Say>  
+             Please enter your account number,   
+             followed by the pound sign  
+         </Say>  
+     </Gather>  
+</Response>        
